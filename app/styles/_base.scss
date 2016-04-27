@@ -1,12 +1,13 @@
 body {
-  color: white;
-  font-family: Helvetica;
+  color: yellow;
+  font-family: sans-serif;;
   padding: 10px;
 }
 
-.appContainer {
+.screen {
   width:320px;
   height: 568px;
-  background-color: #3498db;
+  background-color: blue;
   margin: 20px auto;
+  background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNHB8_0bFaH3Wk8gcn1vTdJEDUe6ZY7vEMbADddIP4eKK3qbONBQ");
 }
